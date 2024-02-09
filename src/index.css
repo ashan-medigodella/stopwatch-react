@@ -83,5 +83,5 @@ button:focus-visible {
 .display {
   font-size: 5rem;
   font-weight: bold;
-  text-shadow: 2px 2px 2px rgb(28, 61, 123);
+  text-shadow: 2px 2px 2px #646cff;
 }
